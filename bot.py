@@ -19,7 +19,7 @@ from discord import Game
 
 owner='567295774845698058'
 
-my_token = 'NTY5MDM1MDE2Mzk5NDg3MDA2.XMELEw.lywPHl6uuMZMSvR6yDC45Dd-5YY'
+my_token = 'NTY5MDM1MDE2Mzk5NDg3MDA2.XME7qw.RN_M1k4s8TrCRZG1-F7IrhC72i8'
 
 client = commands.Bot(command_prefix = '^')
 
